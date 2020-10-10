@@ -47,6 +47,7 @@
     "eslint-plugin-sonarjs": "^0.5.0",
     "eslint-plugin-unicorn": "^22.0.0",
     "esm": "^3.2.25",
-    "gatsby-cli": "^2.12.107"
+    "gatsby-cli": "^2.12.107",
+    "normalize.css": "^8.0.1"
   }
 }
