@@ -21,7 +21,7 @@ function HomePage () {
       <HeroImageStyles>
         <img src={heroImage} alt="Alexander Rice" />
       </HeroImageStyles>
-      <section className="container">
+      <section className="container stripes" style={{minHeight: '600px'}}>
         <p>👷🚧🚧 Placeholder Text for the HomePage 🚧</p>
       </section>
     </>
