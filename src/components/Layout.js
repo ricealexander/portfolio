@@ -37,9 +37,7 @@ function Layout ({ children }) {
       <LayoutStyles>
         <Header />
         <main>
-          <div className="container">
-            {children}
-          </div>
+          {children}
         </main>
         <Footer />
       </LayoutStyles>
